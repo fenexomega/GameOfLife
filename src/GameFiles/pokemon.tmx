@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="POke Tile" tilewidth="16" tileheight="16">
+  <image source="../../../Área de Trabalho/Tiles Pokemon/poke_tileset.png" width="480" height="256"/>
+ </tileset>
+ <layer name="Base" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQwmoArEahVidCHucgZgDBxaAYlzyMOxKpD2eQOwFxd40tCcdiJuhOBPNHkJ2kGKPABomxmxy7CHV3OFmzw8kTG17eKF4ARAvhOJFNLTnDhDfheJ7NLTHmJGBwQSKTRlpZ08g0OwgKA6mgT3DOV2P2sPAkAjESRTiZCLsGQWDCwAArOMnpw==
+  </data>
+ </layer>
+ <layer name="Objetos" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DkAHMgVmTEFG+lu0tGwSigP3BghKR/EFbCkg+oCUB5bQltrRgFo2AUDCMAADa+AmI=
+  </data>
+ </layer>
+ <layer name="Animados" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFQwZTC1DDnulQPGrP4IyfUXtG7Rm1Z9SeUXtG8VDBAFSBBOs=
+  </data>
+ </layer>
+ <objectgroup name="Conversaveis" width="26" height="26">
+  <object name="Placa 0" type="Placa" x="192" y="112" width="16" height="16">
+   <properties>
+    <property name="string" value="Bem-vindo a lugar nenhum!"/>
+   </properties>
+  </object>
+  <object name="PlacaMerc01" type="PlacaMerc" x="288" y="240" width="16" height="16">
+   <properties>
+    <property name="string" value="Esse eh o supermercado!"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

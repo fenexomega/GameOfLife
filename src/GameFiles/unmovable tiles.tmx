@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="pokemon" tilewidth="16" tileheight="16">
+  <image source="../../../Área de Trabalho/Tiles Pokemon/poke_tileset.png" width="480" height="256"/>
+ </tileset>
+ <layer name="Camada de Tiles 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0clKUFEYB/BzIQjbNNhgVgsDs4JyymwZhJVZZlpuauNQ4lJfQFK0bFMvoA3WMreaQ5ovYDao5RTVC0RRJDn8LlcIXUqr8IMf95zzP/e7h3M7QgidPGQzTaTwjWa+84MWfvKIxzzhMEc4yo4ohK30Gw8wSCaHyApJto3tUbI3lZ28lA0xzFnOcZ4c2TE+GH9kijMhqaKQZMfJjpK9ueQxLZthllpucotSWQmfjb/wlSqqqQlJdpFLUbL3MmWksZd0isPqLD5/IKLVcIFFllbub1P09/5KVu7vpLVCTlG35rvx+Z9a66KNfeb7OcAd87u0c496LnBVdo1KMjjIabaE5IzPPK973mCMN7zlHaO8pojB+F8wxDCvGKGHXl7Qx22aaeG53t000Mgvfsf3KZuK/wUzzDLHJ94zzgST7GI3e5j37h/u8yCsr/L1OUFBtM4Ga+qKPuVU/KN+G7VR/1MtA0cIUmM=
+  </data>
+ </layer>
+</map>
